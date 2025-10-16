@@ -3,6 +3,8 @@
 ## 📸 
 
 
+<img src="assets/WhatsAppVido2025-10-1623.45.13_f56375c8-ezgif.com-video-to-gif-converter (1).gif" width="400" alt="Demo du projet">
+
 ## ✨ Fonctionnalités
 
 - ☕ **Menu interactif** avec catégories
