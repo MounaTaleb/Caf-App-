@@ -18,9 +18,7 @@
 
 ## 📸 Aperçu
 
-<p align="center">
-  <img src="Commande/Tuto.gif" width="400" alt="Demo du projet" style="border-radius:12px;box-shadow:0 0 20px rgba(107,68,35,0.5);">
-</p>
+
 
 ---
 
