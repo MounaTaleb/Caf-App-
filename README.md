@@ -34,36 +34,55 @@
 
 🍮 **Menu interactif et intuitif** — Naviguez entre les différentes catégories de boissons et pâtisseries  
 🫘 **Images appétissantes** — Chaque plat est illustré pour éveiller la gourmandise  
-🛍️ **Panier intelligent** — Les commandes sont sauvegardées localement  
-💾 **Stockage local** — Continuez votre commande même après avoir fermé l'application  
-🎨 **Design chaleureux** — Une interface aux tons café pour une expérience immersive
+🛍️ **Panier intelligent** — Les commandes sont sauvegardées localement et peuvent être envoyées au backend  
+💾 **Stockage local** — Continuez votre commande même après avoir fermé l'application (AsyncStorage)  
+🗂️ **Historique des commandes** — Consultez toutes vos commandes précédentes, sauvegardées dans le backend  
+🖨️ **Impression PDF des ordres** — Exportez vos commandes en PDF pour impression ou partage  
+🎨 **Design chaleureux** — Une interface aux tons café pour une expérience immersive  
+📦 **Backend JSON-Server** — API REST locale pour gérer les commandes, menus et historique
+
 
 ---
 
 ## 🚀 Installation & Lancement
 
-```bash
 # 1️⃣ Cloner le projet
 git clone https://github.com/ton-utilisateur/Caf-App.git
 
-# 2️⃣ Se déplacer dans le dossier
+# 2️⃣ Se déplacer dans le dossier principal
 cd Caf-App
 
-# 3️⃣ Installer les dépendances
+# 3️⃣ Installer les dépendances frontend
 npm install
 
-# 4️⃣ Lancer l'application
+# 4️⃣ Lancer l'application Expo
 npx expo start
-```
+
+# ------------------------------
+# 🔧 Backend JSON-Server
+# 5️⃣ Se déplacer dans le dossier backend
+cd backend
+
+# 6️⃣ Installer les dépendances du backend
+npm install
+
+# 7️⃣ Lancer le backend (mode custom avec timestamps)
+npm start
+# ou mode simple (watch db.json)
+npm run dev
 
 ---
 
 ## 🛠️ Technologies utilisées
 
 ```
-☕ React Native    │ Framework mobile cross-platform
-🥐 Expo           │ Plateforme de développement
-🌰 AsyncStorage   │ Stockage des données locales
+# Stack et outils utilisés
+
+☕ **React Native**    │ Framework mobile cross-platform  
+🥐 **Expo**           │ Plateforme de développement  
+🌰 **AsyncStorage**   │ Stockage des données locales  
+📦 **JSON-Server**    │ Backend REST fake pour prototypage et tests
+
 
 ```
 
