@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/React%20Native-6B4423?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Expo-8B5E3C?style=for-the-badge&logo=expo&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-A0826D?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/JSON--Server-3E3E3E?style=for-the-badge&logo=json&logoColor=white">
 </p>
+
 
 ---
 
