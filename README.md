@@ -46,7 +46,7 @@
 
 ## 🚀 Installation & Lancement
 
-# 1️⃣ Cloner le projet
+ 1️⃣ Cloner le projet
 git clone https://github.com/ton-utilisateur/Caf-App.git
 
 # 2️⃣ Se déplacer dans le dossier principal
