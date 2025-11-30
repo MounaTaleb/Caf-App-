@@ -49,24 +49,24 @@
  1️⃣ Cloner le projet
 git clone https://github.com/ton-utilisateur/Caf-App.git
 
-# 2️⃣ Se déplacer dans le dossier principal
+ 2️⃣ Se déplacer dans le dossier principal
 cd Caf-App
 
-# 3️⃣ Installer les dépendances frontend
+3️⃣ Installer les dépendances frontend
 npm install
 
-# 4️⃣ Lancer l'application Expo
+ 4️⃣ Lancer l'application Expo
 npx expo start
 
-# ------------------------------
+
 # 🔧 Backend JSON-Server
-# 5️⃣ Se déplacer dans le dossier backend
+5️⃣ Se déplacer dans le dossier backend
 cd backend
 
-# 6️⃣ Installer les dépendances du backend
+ 6️⃣ Installer les dépendances du backend
 npm install
 
-# 7️⃣ Lancer le backend (mode custom avec timestamps)
+ 7️⃣ Lancer le backend (mode custom avec timestamps)
 npm start
 # ou mode simple (watch db.json)
 npm run dev
